@@ -1,2 +1,2 @@
 # Site_android
-Site Android desenvolvido por Gustavo Guanabara, condado por mim
+Site Android desenvolvido por Gustavo Guanabara, codado por mim
